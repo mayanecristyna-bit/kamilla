@@ -228,9 +228,7 @@ body.sobre{
 }
 .sobre .container { 
 display: flex; 
-justify-content: center; 
-align-items: center; 
-min-height: 100vh; 
+justify-content: center;  
 } 
 .sobre .card { 
 width: 100%; 
@@ -245,7 +243,6 @@ box-shadow: 08px 24px rgba(0, 0, 0, 0.15);
     font-size: 16px;
     font-weight: bold;
     padding: 10px;
- margin-top: -50px
     border: none;
     border-radius: 8px;
     cursor: pointer;
