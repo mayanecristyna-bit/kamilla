@@ -327,5 +327,89 @@ body.musicas {
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+body.albuns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url('imgsite/pag3.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0;
+}
+
+.albuns h1 {
+  color: #709c49;
+}
+
+.albuns .container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 100%;
+  max-width: 600px;
+}
+
+.albuns .card {
+  display: flex;
+  align-items: center;
+  background-color: #fdf7eb;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.albuns .cardtitulo {
+  display: flex;
+  align-items: center;
+  background-color: rgba(207, 231, 185, 0.692);
+  padding: 3px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.albuns .card img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-right: 15px;
+}
+
+.albuns .card-texto h2 {
+  margin: 0 0 8px 0;
+  font-size: 18px;
+  color: #333333;
+}
+
+.albuns .card-texto p {
+  margin: 0;
+  font-size: 14px;
+  color: #666666;
+}
+.albuns .card-botao{
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.albuns .card-botao a{
+   text-decoration: none;
+   color: rgb(102, 145, 67);
+    display: flex;
+  align-items: center;
+  background-color: rgba(195, 255, 183, 0.411);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
 
 
