@@ -164,7 +164,7 @@ body.integrante{
     color: rgb(102, 145, 67);
 }
 body.illit{
- background-image: url('imgsite/pag3.png');
+ background-image: url('pag3.png');
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -209,7 +209,7 @@ box-shadow: 08px 24px rgba(0, 0, 0, 0.15);
   color: rgb(102, 145, 67);
 }
 body.sobre{
- background-image: url('imgsite/pag3.png');
+ background-image: url('pag3.png');
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -261,7 +261,7 @@ body.musicas {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url('imgsite/pag3.png');
+  background-image: url('pag3.png');
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -332,7 +332,7 @@ body.albuns{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url('imgsite/pag3.png');
+  background-image: url('pag3.png');
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
