@@ -244,7 +244,8 @@ box-shadow: 08px 24px rgba(0, 0, 0, 0.15);
 .sobre .card-botao{
     font-size: 16px;
     font-weight: bold;
-    padding: 10px 10px;
+    padding: 10px;
+ margin-top: -50px
     border: none;
     border-radius: 8px;
     cursor: pointer;
