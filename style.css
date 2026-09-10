@@ -1,3 +1,4 @@
+ /*index*/
 body.index{
     margin: 0;
     background-image: url('pag1.png');
@@ -163,6 +164,9 @@ body.integrante{
 .integrante .card-botao h1 {
     color: rgb(102, 145, 67);
 }
+
+ /illit*/
+
 body.illit{
  background-image: url('pag3.png');
   background-size: cover;
@@ -208,6 +212,9 @@ box-shadow: 08px 24px rgba(0, 0, 0, 0.15);
   text-decoration: none;
   color: rgb(102, 145, 67);
 }
+
+ /*Mais sobre*/
+
 body.sobre{
  background-image: url('pag3.png');
   background-size: cover;
@@ -256,6 +263,8 @@ box-shadow: 08px 24px rgba(0, 0, 0, 0.15);
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+ /*musicas*/
+
 body.musicas {
   display: flex;
   justify-content: center;
@@ -327,6 +336,9 @@ body.musicas {
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+ /*albuns*/
+
 body.albuns{
   display: flex;
   justify-content: center;
