@@ -208,3 +208,51 @@ box-shadow: 08px 24px rgba(0, 0, 0, 0.15);
   text-decoration: none;
   color: rgb(102, 145, 67);
 }
+body.sobre{
+ background-image: url('imgsite/pag3.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.sobre main {
+  align-items: center;
+  text-align: center;
+}
+.sobre .container { 
+display: flex; 
+justify-content: center; 
+align-items: center; 
+min-height: 100vh; 
+} 
+.sobre .card { 
+width: 100%; 
+max-width: 600px; 
+padding: 40px; 
+background-color: #fdf1da;
+ border-radius: 12px; 
+box-shadow: 08px 24px rgba(0, 0, 0, 0.15); 
+
+}
+.sobre .card-botao{
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.sobre .card-botao a{
+   text-decoration: none;
+   color: rgb(102, 145, 67);
+    display: flex;
+  align-items: center;
+  background-color: rgba(195, 255, 183, 0.411);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
