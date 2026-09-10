@@ -1,0 +1,45 @@
+body{
+ background-image: url('imgsite/pag3.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+main{
+  align-items: center;
+  text-align: center;
+}
+.container { 
+display: flex; 
+justify-content: center; 
+align-items: center; 
+margin: 100px;
+} 
+
+.card { 
+width: 100%; 
+max-width: 600px; 
+padding: 40px; 
+background-color: #d13636;
+ border-radius: 12px; 
+box-shadow: 08px 24px rgba(0, 0, 0, 0.15); 
+}
+
+.card-botao{
+  font-size: 16px;
+  font-weight: bold;
+  padding: auto;
+  border: none;
+  cursor: pointer;
+  display: inline-block;
+  align-items: center;
+  background-color: rgba(195, 255, 183, 0.411);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-botao a{
+  text-decoration: none;
+  color: rgb(102, 145, 67);
+}
