@@ -1,7 +1,7 @@
  /*index*/
 body.index{
     margin: 0;
-    background-image: url('pag1.png');
+    background-image: url('imgsite/pag1.png');
     background-size: cover;
     background-attachment: fixed;
   background-repeat: no-repeat;
@@ -85,7 +85,7 @@ body.index{
 }
 body.integrante{
     margin: 0;
-    background-image: url('pag3.png');
+    background-image: url('imgsite/pag3.png');
     background-size: cover;
     background-attachment: fixed;
   background-repeat: no-repeat;
@@ -168,7 +168,7 @@ body.integrante{
  /*illit*/
 
 body.illit{
- background-image: url('pag3.png');
+ background-image: url('imgsite/pag3.png');
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -216,7 +216,7 @@ box-shadow: 08px 24px rgba(0, 0, 0, 0.15);
  /*Mais sobre*/
 
 body.sobre{
- background-image: url('pag3.png');
+ background-image: url('imgsite/pag3.png');
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -268,7 +268,7 @@ body.musicas {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url('pag3.png');
+  background-image: url('imgsite/pag3.png');
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -342,7 +342,7 @@ body.albuns{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url('pag3.png');
+  background-image: url('imgsite/pag3.png');
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
